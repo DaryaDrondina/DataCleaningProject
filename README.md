@@ -6,8 +6,8 @@
 2. [Описание данных](#Описание-данных)
 3. [Зависимости](#Зависимости)
 
-## Описание проекта
-# DataCleaningProject
+# Описание проекта
+## DataCleaningProject
 
 Data cleaning project based on the dataset which provides the prices of flats in Moscow and the Moscow region.
 
