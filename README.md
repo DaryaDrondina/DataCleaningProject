@@ -34,7 +34,7 @@ Data cleaning project based on the dataset which provides the prices of flats in
 * [outliers_lib](./outliers_lib) - папка со вспомогательными модулями для обработки выбросов 
 * [data_cleaning_example.ipynb](./data_cleaning_example.ipynb) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируются методы и подходы решения задач очистки данных.
   
-* ## Описание данных
+## Описание данных
 В этом проекте используются данные с соревнования [Sberbank Russian Housing Market](https://www.kaggle.com/c/sberbank-russian-housing-market/data) от Сбера (бывш. Сбербанк).
 
 Требования Сбера состояли в построении модели, которая бы прогнозировала цены на жильё в Москве, опираясь на параметры самого жилья, а также состояние экономики и финансового сектора в стране.
